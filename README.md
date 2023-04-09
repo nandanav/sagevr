@@ -1,6 +1,6 @@
 # SageVR
 
-![Devpost Link](https://devpost.com/software/sagevr)
+[Devpost Link](https://devpost.com/software/sagevr)
 
 ## Disclaimer
 
@@ -20,10 +20,10 @@ Find the variable for the OpenAI API Key and input it. Once done, make sure to f
 
 ## Pictures and Demo
 
-![Young Hanmo](readme_assets/hanmo_young.jpg)
+![Young Hanmo](readme_assets/hanmo_young.JPG)
 ![Aging Hanmo Using FaceApp](readme_assets/hanmo_old.jpg)
 
-![Demo](readme_assets/demo.mp4)
+[Demo](https://youtube.com/shorts/NSp8hhEe6v8?feature=share)
 
 ## Contributors
 
@@ -32,4 +32,4 @@ Hanmo Zhang - @adgnvtefc (Model & Prompt Engineering)
 Tanya Garg - @tgag17 (Voice SDK)
 Shivanee Jaiswal - @shivaneej (Scene devlopment and Voice SDK)
 Siddhi Pandare - @pandaresiddhi (Scene development and Voice SDK)
-Yousef Rajeh - @yousefrajeh (Hanmo model and Background Music)
+Yousef Rajeh - @yousefrajeh (Hanmo model and Background Music, assistance with integration)
