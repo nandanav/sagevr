@@ -13,7 +13,7 @@ sagevr_BackUpThisFolder_ButDontShipItWithYourGame
 *_BackUpThisFolder_ButDontShipItWithYourGame
 sagevr.apk
 *.apk
-
+mono_crash.*
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

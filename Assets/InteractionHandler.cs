@@ -144,7 +144,7 @@ namespace Oculus.Voice.Demo
             OnRequestComplete();
         }
 
-        private const string API_KEY = "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";
+        private const string API_KEY = "";
         private IEnumerator SendChat() {
             requestSent = true;
             byte[] bytes = Encoding.UTF8.GetBytes("{\"model\": \"gpt-3.5-turbo\"," + 
@@ -181,7 +181,7 @@ namespace Oculus.Voice.Demo
                 {
                     // textArea.text = "I heard: " + response["text"]; //Here is ChatGPT
                     voiceMessage = response["text"];
-                    text.text += "Heard: " + voiceMessage;
+                    text.text = "Heard: " + voiceMessage;
                     string userMessage = "{\"role\": \"user\", \"content\": \"" + voiceMessage + "\"}";
                     messages.Add(userMessage);
                     // ChatGPT call
